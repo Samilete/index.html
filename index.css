@@ -1,0 +1,30 @@
+body{
+    font-family: montserrat;
+    background-color:#EFEFEF;
+}
+.title-topics{
+    text-align: center;
+}
+p {
+    text-indent: 5rem;
+}
+.mundo_wikipedia{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 220px;
+}
+h1{
+    font-size: 40px;    
+}
+hr{
+    margin: 0 25% 0 25%;
+    width: 20%;
+    margin: 0 auto;
+    height: 7px;
+    /* border-radius: 100px 0px 0px 0px; */
+    background-color: #000000;
+}
+.links{
+    width: 1318px;
+    height: 609px;
+}
